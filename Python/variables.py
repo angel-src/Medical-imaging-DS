@@ -10,6 +10,6 @@ print (name , type(name))
 address= None
 print (address , type(address))
 
-is_tall= true
+is_tall= True
 print (is_tall , type(is_tall))
 
